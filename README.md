@@ -363,14 +363,15 @@ You are not permitted to:
 
 ## 🙏 Acknowledgments
 
-Built by [Your Name / Your Organisation] — designed for executives, tested by recruiters, trusted by hiring managers.
+Built by Bernard Wansink — designed for executives, tested by recruiters, trusted by hiring managers.
 
 ---
 
 ## Version History
 
-- **v1.0** (2025) — Initial release with templates, instructions, and generator prompt
-- Based on 20+ years of executive recruitment and hiring manager feedback
+- **v1.0** (2026) — Initial release with templates, instructions, and generator prompt
+- Based on 20+ years of ICT leadership experience.
+- https://www.linkedin.com/in/bwansink/
 
 ---
 
