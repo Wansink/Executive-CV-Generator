@@ -6,10 +6,8 @@
 ## 📋 FIRST-TIME USER CHECKLIST
 
 ### Week 1: Setup & Understanding
-- [ ] Read `README.md` (30 minutes) — Understand the system
 - [ ] Read `QUICKSTART_PROMPT.md` (20 minutes) — Learn the workflow
 - [ ] Skim `EXAMPLES/` folder (15 minutes) — See what output looks like
-- [ ] Review `STAR_LIBRARY_INSTRUCTIONS.md` (30 minutes) — Understand STAR framework
 - [ ] Review `MASTER_CV_TEMPLATE.md` structure (15 minutes) — Know what you're building
 
 ### Week 2–3: Build Your Master CV
